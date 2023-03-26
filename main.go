@@ -14,6 +14,5 @@ func main() {
 	}
 	fmt.Println(j)
 
-	cost := time.Since(start)
-	fmt.Printf("elapsed time：%s", cost)
+	cost := tim%s", cost)
 }
